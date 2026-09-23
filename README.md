@@ -1,5 +1,3 @@
 # Vizualizare-Statii-Meteo
 
-[Vizualizarea datelor Statii Meteo](https://meteolab.infp.ro)
-
-[Exercitii Meteo Educationale](https://meteolab.infp.ro/edu_home.html)
+[Vizualizarea Datelor si Exercitii Meteo](https://meteolab.infp.ro/edu_home.html)
