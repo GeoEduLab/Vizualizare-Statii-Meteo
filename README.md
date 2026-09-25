@@ -30,9 +30,9 @@ The whole site is available in **English, Romanian, German and French**.
 ## Privacy
 
 No accounts and no personal data are needed. Downloads are counted anonymously (station, period and
-country only), fonts and libraries are self-hosted, and there are no cookies, ads or trackers. See the
+country only), and there are no cookies, ads or trackers. See the
 [privacy policy](https://meteolab.infp.ro/edu_gdpr.html).
 
 ## Contact
 
-Mihai Boni — NIEP GeoEduLab · **meteolab@infp.ro**
+Mihai Boni — NIEP GeoEduLab
